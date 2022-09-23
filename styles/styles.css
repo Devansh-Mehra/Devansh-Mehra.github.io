@@ -272,6 +272,8 @@ section {
 .about-stats {
   padding-bottom: 4rem;
 }
+p{
+  text-align: center;}
 .about-stats .progress-bars {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
@@ -410,6 +412,7 @@ section {
 .portfolios .portfolio-item {
   position: relative;
   border-radius: 15px;
+  
 }
 .portfolios .portfolio-item img {
   width: 100%;
